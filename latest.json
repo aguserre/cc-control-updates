@@ -1,15 +1,15 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.15",
   "notes": "",
-  "pub_date": "2026-04-22T04:11:23Z",
+  "pub_date": "2026-04-22T04:47:01Z",
   "platforms": {
     "darwin-universal": {
       "signature": "",
-      "url": "https://github.com/aguserre/cc-control-updates/releases/download/v1.0.13/CC-Control.app.tar.gz"
+      "url": "https://github.com/aguserre/cc-control-updates/releases/download/v1.0.15/CC-Control.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/aguserre/cc-control-updates/releases/download/v1.0.13/"
+      "url": "https://github.com/aguserre/cc-control-updates/releases/download/v1.0.15/"
     }
   }
 }
